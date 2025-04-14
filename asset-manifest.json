@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Theju1212/router-project/static/css/main.3ce7bc41.css",
-    "main.js": "/Theju1212/router-project/static/js/main.88a3f77c.js",
-    "static/media/home.jpeg": "/Theju1212/router-project/static/media/home.f6d4bc717ff80dd3389d.jpeg",
-    "index.html": "/Theju1212/router-project/index.html",
-    "main.3ce7bc41.css.map": "/Theju1212/router-project/static/css/main.3ce7bc41.css.map",
-    "main.88a3f77c.js.map": "/Theju1212/router-project/static/js/main.88a3f77c.js.map"
+    "main.css": "/router-project/static/css/main.3ce7bc41.css",
+    "main.js": "/router-project/static/js/main.642bdf36.js",
+    "static/media/home.jpeg": "/router-project/static/media/home.f6d4bc717ff80dd3389d.jpeg",
+    "index.html": "/router-project/index.html",
+    "main.3ce7bc41.css.map": "/router-project/static/css/main.3ce7bc41.css.map",
+    "main.642bdf36.js.map": "/router-project/static/js/main.642bdf36.js.map"
   },
   "entrypoints": [
     "static/css/main.3ce7bc41.css",
-    "static/js/main.88a3f77c.js"
+    "static/js/main.642bdf36.js"
   ]
 }
